@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1"
+  },
+  "name": "usaf-cookies-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPetersen234/usaf-cookies-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPetersen234/usaf-cookies-challenge/issues"
+  },
+  "homepage": "https://github.com/DPetersen234/usaf-cookies-challenge#readme",
+  "description": ""
+}
